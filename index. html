@@ -1,1 +1,95 @@
-dhhdhrhsbshebeb
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+THE SKY FLOWERSHOP.COM
+</title>
+</head>
+<body background="background1.jpg">
+<center><table width="1024" height="768"  bordercolor="black">
+<tr>
+<td height="282" aline="center">
+<img src="C:\web deopelment project\html project no1\background\facebook.png">
+<img src="C:\web deopelment project\html project no1\background\tuter.png">
+<img src="C:\web deopelment project\html project no1\background\linked.png"></td>
+<td height="282"><center><img src="C:\web deopelment project\html project no1\background/logo.jpg"><br>
+<img src="C:\web deopelment project\html project no1\background\DOMAIN.jpg"><br>
+<img src="C:\web deopelment project\html project no1\background\TAGLINE.jpg"></center>
+</td>
+<td height="282" width="310"><center><font size="5" color="pink">address-Model town bhilai durg</font></center>
+<br>
+<center><font size="5">phone number-7509919782</td></font></center>
+</tr>
+
+<tr>
+<td colspan="3" height="50">
+<table  width="1024" height="50"   bgcolor="white">
+<tr>
+<td>
+<form>
+<input type="search" name="search" size="35" placeholder="search flower here"><input type="submit" value="search">
+</form>
+</td>
+<td></td>
+<td aline="center" width="100"><font face="sens-serif">Home</font></td>
+<td aline="center" width="100"><font face="sens-serif">Content us </font></td>
+<td aline="center" width="100"><font face="sens-serif">Shoponline</font></td>
+<td aline="center" width="100"><font face="sens-serif">About us</font></td>
+
+</tr>
+</table></td></tr>
+
+<tr><td colspan="3" height="386">
+<table width="1024" height="386"  bgcolor="white">
+<tr>
+<td width="661"><img src="C:\web deopelment project\html project no1\background/rose.jpg" height="386" width="661"></td>
+<td bgcolor="black">
+<form>
+<table width="363" height="386" >
+<tr>
+<td colspan="2" align="center"><font size="4" face="righteus" color="white">Shop online Flower</font></td>
+</tr>
+
+<tr>
+<td align="center"><font color="white" size="3">Your name</font></td>
+<td><input type="text" name="your name" placeholder="enter your name"></td>
+</tr>
+<tr>
+<td align="center"><font color="white" size="3">Flower name</font></td>
+<td><input type="text" name="flower name" placeholder="enter your flower name"></td>
+</tr>
+
+<tr>
+<td align="center"><font color="white" size="3">Quantity</font></td>
+<td><input type="number" name="Quantity" placeholder="5"></td>
+</tr>
+
+<tr>
+<td align="center"><font color="white" size="3">Mobile number</font></td>
+<td><input type="number" name="moblie number" placeholder="+19 8789897867"></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center"><textarea cols="40" rows="5">Address-</textarea></td>
+</tr>
+
+<tr>
+<td colspan="2" align="right"><input submit="submit" value="Order Now!"></td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+
+<tr><td colspan="3" height="50" bgcolor="black">
+<table width="1024" height="50" >
+<tr>
+<td><address><font color="white">Address:-Model town bhilai nehru nagar</font></address></td>
+<td align="right"><font color="white">Developed by DS devoloper</font></td></tr>
+</table></td></tr>
+
+
+
+</table></center>
+</body>
+<html>
